@@ -1,0 +1,2 @@
+URL: https://coinmarketcap.com/all/views/all/. This website contains information about cryptocurrencies such as their current prices, circulation supply, volume, etc.
+I'll will scrape the website with basic eda and data visualization
